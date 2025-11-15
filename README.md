@@ -1,12 +1,12 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Muhammed+Babou+%F0%9F%91%8B;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;Computer+Science+Student+%7C+Problem+Solver;I+Love+Building+Real+Projects+With+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Muhammed+Babou;Full-Stack+Developer+in+Progress;Computer+Science+Student+%7C+Problem+Solver;I+Love+Building+Real+Projects+With+Code" alt="Typing SVG" />
 </div>
 
 <br>
 
 <!-- ABOUT SECTION -->
-<h2 align="center">🌍 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   I'm <strong>Muhammed Babou</strong> — also known as <strong>Babou</strong>. <br>
@@ -17,7 +17,7 @@
 <br>
 
 <!-- STATS CARDS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=baboumuhammed&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -27,7 +27,7 @@
 <br>
 
 <!-- TECH STACK -->
-<h2 align="center">🧰 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mysql,mongodb,git,github,linux" />
@@ -36,7 +36,7 @@
 <br>
 
 <!-- PROJECTS SECTION -->
-<h2 align="center">🚀 Highlighted Projects</h2>
+<h2 align="center">Highlighted Projects</h2>
 
 <div align="center">
 
@@ -55,23 +55,23 @@
 <br>
 
 <!-- LEARNING SECTION -->
-<h2 align="center">📚 What I'm Learning</h2>
+<h2 align="center">What I'm Learning</h2>
 
 <p align="center">
-  🌱 Full-Stack Web Development (Frontend → Backend) <br>
-  ⚙️ System Design & Backend Architecture <br>
-  🐍 Exploring Python & Data Structures <br>
-  ☁️ DevOps basics (Docker, CI/CD soon)
+  Full-Stack Web Development (Frontend → Backend) <br>
+  System Design & Backend Architecture <br>
+  Exploring Python & Data Structures <br>
+  DevOps basics (Docker, CI/CD soon)
 </p>
 
 <br>
 
 <!-- GOALS -->
-<h2 align="center">🎯 My Goals</h2>
+<h2 align="center">My Goals</h2>
 
 <ul>
   <li>Build a complete full-stack portfolio project before university ends</li>
-  <li>Master Java & backend fundamentals</li>
+  <li>Master Java and backend fundamentals</li>
   <li>Learn advanced frontend techniques</li>
   <li>Create open-source contributions</li>
 </ul>
@@ -79,7 +79,7 @@
 <br>
 
 <!-- CONTACT -->
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center">Contact Me</h2>
 
 <div align="center">
   <a href="mailto:your-email@example.com">
@@ -95,7 +95,6 @@
 <!-- FOOTER -->
 <hr>
 <p align="center">
-  <i>Thanks for visiting my profile! 🚀 <br>
+  <i>Thanks for visiting my profile. <br>
   Feel free to explore my repositories — I’m always building something new.</i>
 </p>
-
