@@ -42,7 +42,7 @@
 
   <!-- PROJECT CARD 1 -->
   <a href="#" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=baboumuhammed&repo=YOUR_REPO&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=baboumuhammed&repo=https://github.com/BabouMuhammed/MY-PERSONAL-PORTFOLIO&theme=tokyonight&hide_border=true">
   </a>
 
   <!-- PROJECT CARD 2 -->
